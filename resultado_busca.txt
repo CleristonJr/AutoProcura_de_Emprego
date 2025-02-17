@@ -1,0 +1,7 @@
+Botão de aviso encontrado: true
+Link 1: https://www.infojobs.com.br/vaga-de-booking-sales-agent-eor-contract-em-sao-paulo__10238472.aspx
+Link 2: https://www.infojobs.com.br/empresa-lrm-ii__644019.aspx
+Link 3: https://www.infojobs.com.br/vaga-de-vendedor-home-office-cm-em-rio-janeiro__10173759.aspx
+Link 4: https://www.infojobs.com.br/vaga-de-customer-care-agent-eor-employer-of-record-contract-em-sao-paulo__10173099.aspx
+Link 5: https://www.infojobs.com.br/vaga-de-analista-help-desk-em-sao-paulo__10228966.aspx
+Busca realizada: Selenium WebDriver
